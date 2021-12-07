@@ -14,7 +14,7 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 <br><br><br>
 
 > ### 내용
-* COVID-19 염기서열 데이터분석 및 시각화
+* ##### COVID-19 염기서열 데이터분석 및 시각화
   1. COVID-19 (우한) 데이터 수집 및 염기서열 추출<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
 
   2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023983-632b5d79-d3c6-4f48-98e1-12a77f2a064c.png"></p>
@@ -24,10 +24,10 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 현재 COVID-19 바이러스가 변이되어 이처럼 전 세계에 넓게 퍼져있다는 것을 염기서열 데이터 분석을 통해 연관성 및 관계를 파악하고 시각화하여 한눈에 확인함
   
 <br><br><br>
-* COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석
+* ##### COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석
   1. COVID-19 vs Animal Infection Corona Virus
   2. COVID-19 vs Human Infection Corona Virus
   3. COVID-19 vs SARS · MERS
   4. 의의
 <br><br><br>
-* 결과를 바탕으로 웹 페이지 제작
+* ##### 결과를 바탕으로 웹 페이지 제작
