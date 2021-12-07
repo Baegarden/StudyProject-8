@@ -19,7 +19,7 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 
   2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023983-632b5d79-d3c6-4f48-98e1-12a77f2a064c.png"></p>
   3. COVID-19 염기서열 데이터 분석<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023992-cbae69de-3b7b-448d-86f2-dd9b11875bc5.png"></p>
-  4. 시각화<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023995-edfd73bd-3ea5-46f8-bc2c-35f6d970867c.png"></p>
+  4. 시각화<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023995-edfd73bd-3ea5-46f8-bc2c-35f6d970867c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145023999-0280f488-c601-4a1c-98de-5d86e1c254a1.png"></p>
   5. 의의<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023976-91326a54-80f4-4a96-9c0b-f565c41f50b3.png"></p>
 <br><br><br>
 * COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석
