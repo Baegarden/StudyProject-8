@@ -18,7 +18,7 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
   `1. COVID-19 (우한) 데이터 수집 및 염기서열 추출`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
   `2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023983-632b5d79-d3c6-4f48-98e1-12a77f2a064c.png"></p>
   `3. COVID-19 염기서열 데이터 분석 (Sequence Alignment)`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023992-cbae69de-3b7b-448d-86f2-dd9b11875bc5.png"></p>
-  `4. 시각화`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023995-edfd73bd-3ea5-46f8-bc2c-35f6d970867c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145025038-e69c1acd-bba1-4210-8c92-5e973f950d82.png"></p>
+  `4. 시각화 (계통수)`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023995-edfd73bd-3ea5-46f8-bc2c-35f6d970867c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145025038-e69c1acd-bba1-4210-8c92-5e973f950d82.png"></p>
   `5. 의의`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145025217-56e0a1ba-715a-489b-8104-2efdb7886792.png"></p>
 현재 COVID-19 바이러스가 변이되어 이처럼 전 세계에 넓게 퍼져있다는 것을 염기서열 데이터 분석을 통해 연관성 및 관계를 파악하고 시각화하여 한눈에 확인함
   
