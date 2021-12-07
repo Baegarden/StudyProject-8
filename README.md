@@ -11,6 +11,7 @@
 
 > ### 환경
 BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
+<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145038012-aa9441ea-8aee-44ae-bc7b-8f67ff94440d.png"></p>
 <br><br>
 
 > ### 내용
