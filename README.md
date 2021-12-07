@@ -25,8 +25,8 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 <br><br><br>
 
 * <strong>COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석</strong><br><br>
-  `1. 비교데이터 선정`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145029671-268cddf9-4041-49eb-9472-9b369b3a5bed.png"></p><br>
-  `2. COVID-19 vs Animal Infection Corona Virus`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145030031-5488e22b-3d02-498f-ae6e-722ad101d779.png"></p><br><br>
+  `1. 비교데이터 선정`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145029671-268cddf9-4041-49eb-9472-9b369b3a5bed.png"></p><br><br>
+  `2. COVID-19 vs Animal Infection Corona Virus`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145030031-5488e22b-3d02-498f-ae6e-722ad101d779.png"></p><br>
   `3. COVID-19 vs Human Infection Corona Virus`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145027607-bc4d324c-d94c-4d66-b363-4a105bdbeff8.png"><br><br></p><img src="https://user-images.githubusercontent.com/76520025/145027609-ff4be427-82c9-4686-9c6e-e5041bfe3ccd.png"></p><br><br>
   `4. COVID-19 vs SARS · MERS`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145027614-ffef7288-e790-42b6-8a5e-673a660dea1c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145027618-7c2b8725-f541-4af6-9ca1-ca6210e7387e.png"></p><br>
   `5. 의의`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145029516-dd6eff16-5429-48d8-9699-9f8889250c94.png"></p>
