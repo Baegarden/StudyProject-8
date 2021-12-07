@@ -34,4 +34,6 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
   `1. 개발 과정`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145030435-e05e1591-7777-41b2-a405-9b621ca1ad7c.png"></p><br><br>
   `2. 웹 페이지 구성`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145030442-b6a67778-c021-46e2-81f9-c38c5e829a52.png"></p><br><br>
   `3. 시연영상`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145032767-06d0b2c6-c209-461d-8289-011059914d86.gif"></p>
-<p align="center">https://gudals7856.pythonanywhere.com/</p><br>
+  <br><br>
+> ### Try-it!
+👍 https://gudals7856.pythonanywhere.com/
