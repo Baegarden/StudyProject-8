@@ -15,7 +15,7 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 
 > ### 내용
 * <strong>COVID-19 염기서열 데이터분석 및 시각화</strong><br><br>
-  1. COVID-19 (우한) 데이터 수집 및 염기서열 추출<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
+  `1. COVID-19 (우한) 데이터 수집 및 염기서열 추출`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
   2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023983-632b5d79-d3c6-4f48-98e1-12a77f2a064c.png"></p>
   3. COVID-19 염기서열 데이터 분석 (Sequence Alignment)<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023992-cbae69de-3b7b-448d-86f2-dd9b11875bc5.png"></p>
   4. 시각화<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023995-edfd73bd-3ea5-46f8-bc2c-35f6d970867c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145025038-e69c1acd-bba1-4210-8c92-5e973f950d82.png"></p>
