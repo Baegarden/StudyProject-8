@@ -33,8 +33,8 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
   `4. COVID-19 vs SARS · MERS`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145027614-ffef7288-e790-42b6-8a5e-673a660dea1c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145027618-7c2b8725-f541-4af6-9ca1-ca6210e7387e.png"></p><br>
   `5. 의의`<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145029516-dd6eff16-5429-48d8-9699-9f8889250c94.png"></p>
 ```  
-<p align="center">`코로나19 바이러스와 다른 코로나 바이러스들의 염기서열을 비교분석하여<br> 
-코로나19 바이러스가 기존 바이러스와 왜 다른 특성을 가지고있는지 추측할 수 있었습니다.</p>
+<center>코로나19 바이러스와 다른 코로나 바이러스들의 염기서열을 비교분석하여</center><br> 
+<center>코로나19 바이러스가 기존 바이러스와 왜 다른 특성을 가지고있는지 추측할 수 있었습니다.</center>
 ```
 <br><br>
 
