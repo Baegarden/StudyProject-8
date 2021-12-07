@@ -17,10 +17,10 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 * COVID-19 염기서열 데이터분석 및 시각화
   1. COVID-19 (우한) 데이터 수집 및 염기서열 추출<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
 
-  2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합
-  3. COVID-19 염기서열 데이터 분석
-  4. 시각화
-  5. 의의
+  2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023983-632b5d79-d3c6-4f48-98e1-12a77f2a064c.png"></p><img src="https://user-images.githubusercontent.com/76520025/145023989-ee1f3ece-19af-4823-91ae-7d48ecf18294.png"></p>
+  3. COVID-19 염기서열 데이터 분석<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
+  4. 시각화<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
+  5. 의의<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145023978-0945c585-b09c-41c8-942e-16a1e3efe92d.png"></p>
 <br><br><br>
 * COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석
   1. COVID-19 vs Animal Infection Corona Virus
