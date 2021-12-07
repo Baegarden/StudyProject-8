@@ -14,3 +14,12 @@ BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 <br><br><br>
 
 > ### 내용
+* COVID-19 염기서열 데이터분석 및 시각화
+  1. COVID-19 (우한) 데이터 수집 및 염기서열 추출
+  2. 전 세계 30개의 COVID-19 염기서열 데이터 수집 및 통합완료
+  3. COVID-19 염기서열 데이터 분석
+  4. 시각화
+  5. 의의
+<br><br><br>
+* COVID-19 염기서열과 타 바이러스 염기서열간의 데이터 비교분석
+* 결과를 바탕으로 웹 페이지 제작
