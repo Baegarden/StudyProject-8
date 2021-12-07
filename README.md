@@ -10,7 +10,7 @@
 <br><br>
 
 > ### 환경
-#### BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
+BioPython, Jupyter, HTML, CSS, JavaScript, Django, HeidiSQL
 <br><br>
 
 > ### 내용
